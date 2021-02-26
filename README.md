@@ -34,3 +34,22 @@ The existing database will serve as a repository of public customer complaints f
 - Provide the percentage of complaints resolved till date, which were received through theInternet and customer care calls.
 
 - The analysis results to be provided with insights wherever applicable.
+
+
+# EDA 
+A trend chart for the number of complaints at monthly  granularity levels.
+<img src="/images/Number_of_complaints_Per_Month.png" alt="Monthly" >
+
+A trend chart for the number of complaints at  daily granularity levels.
+<img src="/images/Number_of_Complaints.png" alt="daily" >
+
+<img src="images/Number%20of%20Complaints%20Yearly.png" alt="daily" >
+
+Provide a table with the frequency of complaint types.
+
+Which complaint types are maximum i.e., around internet, network issues, or across any other domains.
+
+<img src="/images/Word_cloud.png" alt="daily" >
+
+<img src="/images/Number_of_issue_per_Case.png" alt="daily" >
+
