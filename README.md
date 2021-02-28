@@ -53,3 +53,6 @@ Which complaint types are maximum i.e., around internet, network issues, or acro
 
 <img src="/images/Number_of_issue_per_Case.png" alt="daily" >
 
+### Topic Model 
+
+<img src="/images/topisc2.png" alt="daily" >
