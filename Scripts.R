@@ -146,3 +146,20 @@ sum(temp)
 number.Of.ticket <- c(795, 489, 379, 150, 192)
 lbls <- c("other", "Internet", "data", "billing","data Caps", "Speed")
 pie(number.Of.ticket, labels = lbls,col=rainbow(length(lbls)), main="Number of issue Per case")
+
+##############################################################################################
+open <- ( data$Status == "Open"| 
+          data$Status =="Pending")
+
+closed <- (data$Status == "Closed"| 
+           data$Status =="Solved")
+
+data$ComplaintStatus[open]<-"Open" 
+data$ComplaintStatus[closed]<- "Closed"
+
+comcast_data<- group_by(data,State,ComplaintStatus)
+chart_data<- summarise(data,Count = n())
+
+
+####################################  Map ####################################################
+
