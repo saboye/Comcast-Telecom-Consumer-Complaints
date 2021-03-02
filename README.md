@@ -56,3 +56,26 @@ Which complaint types are maximum i.e., around internet, network issues, or acro
 ### Topic Model 
 
 <img src="/images/topisc2.png" alt="daily" >
+
+
+## Author
+
+👤 **SABOYE**
+
+* Twitter: [@saboye1](https://twitter.com/saboye1 )
+* Github: [@saboye](https://github.com/saboye)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/saboye/Comcast-Telecom-Consumer-Complaints/issues).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [saboye](https://github.com/saboye).<br />
+This project is [MIT](https://github.com/saboye/Comcast-Telecom-Consumer-Complaints/blob/master/LICENSE) licensed.
+
+***
