@@ -26,13 +26,14 @@ A trend chart for the number of complaints at monthly  granularity levels.
 <img src="/images/Number_of_complaints_Per_Month.png" alt="Monthly" >
 
 A trend chart for the number of complaints at  daily granularity levels.
+### Calendar Chart
 <img src="/images/Number_of_Complaints.png" alt="daily" >
 
 <img src="images/Number%20of%20Complaints%20Yearly.png" alt="daily" >
 
-Provide a table with the frequency of complaint types.
+#### complaint types.
 
-Which complaint types are maximum i.e., around internet, network issues, or across any other domains.
+The most complaint types like around internet, network issues, or across any other domains.
 
 <img src="/images/Word_cloud.png" alt="daily" >
 
