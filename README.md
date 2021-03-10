@@ -26,8 +26,8 @@ A trend chart for the number of complaints at monthly  granularity levels.
 <img src="/images/Number_of_complaints_Per_Month.png" alt="Monthly" >
 
 A trend chart for the number of complaints at  daily granularity levels.
-
 <img src="/images/Number_of_Complaints.png" alt="daily" >
+
 ### Calendar Chart
 <img src="images/Number%20of%20Complaints%20Yearly.png" alt="daily" >
 
