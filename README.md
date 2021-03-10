@@ -21,11 +21,7 @@ The existing database will serve as a repository of public customer complaints f
 
 ### Objective:-
 A project is to make a simple Exploratory Data Analysis to find an insight Comcast is an American global telecommunication company. 
-![image](https://user-images.githubusercontent.com/43153333/110573715-5aab1f00-8121-11eb-91cf-4882a24548ff.png)
 
-
-
-# EDA 
 A trend chart for the number of complaints at monthly  granularity levels.
 <img src="/images/Number_of_complaints_Per_Month.png" alt="Monthly" >
 
@@ -46,9 +42,22 @@ Which complaint types are maximum i.e., around internet, network issues, or acro
 
 <img src="/images/topisc2.png" alt="daily" >
 
-### Topic Model 
+### Tickets 
 
-<img src="/images/topisc2.png" alt="daily" >
+<img src="/images/Tickets.png" alt="daily" >
+
+### Tickets 
+
+<img src="/images/Open.closed.png" alt="daily" >
+
+### Tickets 
+
+<img src="/images/Open.closed.png" alt="daily" >
+
+
+### Tickets 
+
+<img src="/images/open-closed.png" alt="daily" >
 
 #### Author
 
