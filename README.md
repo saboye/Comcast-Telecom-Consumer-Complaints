@@ -19,21 +19,10 @@ The existing database will serve as a repository of public customer complaints f
 - Status: Status of complaint
 - Filing on behalf of someone
 
-### Analysis Task
+### Objective:-
+A project is to make a simple Exploratory Data Analysis to find an insight Comcast is an American global telecommunication company. 
+![image](https://user-images.githubusercontent.com/43153333/110573715-5aab1f00-8121-11eb-91cf-4882a24548ff.png)
 
-- Import data into R environment.
-- Provide the trend chart for the number of complaints at monthly and daily granularity levels.
-- Provide a table with the frequency of complaint types.
-
-- Which complaint types are maximum i.e., around internet, network issues, or across any other domains.
-- Create a new categorical variable with value as Open and Closed. Open & Pending is to be categorized as Open and Closed & Solved is to be categorized as Closed.
-- Provide state wise status of complaints in a stacked bar chart. Use the categorized variable from Q3. Provide insights on:
-
-- Which state has the maximum complaints
-- Which state has the highest percentage of unresolved complaints
-- Provide the percentage of complaints resolved till date, which were received through theInternet and customer care calls.
-
-- The analysis results to be provided with insights wherever applicable.
 
 
 # EDA 
@@ -57,6 +46,9 @@ Which complaint types are maximum i.e., around internet, network issues, or acro
 
 <img src="/images/topisc2.png" alt="daily" >
 
+### Topic Model 
+
+<img src="/images/topisc2.png" alt="daily" >
 
 #### Author
 
