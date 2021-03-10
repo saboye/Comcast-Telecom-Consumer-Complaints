@@ -26,12 +26,12 @@ A trend chart for the number of complaints at monthly  granularity levels.
 <img src="/images/Number_of_complaints_Per_Month.png" alt="Monthly" >
 
 A trend chart for the number of complaints at  daily granularity levels.
-### Calendar Chart
-<img src="/images/Number_of_Complaints.png" alt="daily" >
 
+<img src="/images/Number_of_Complaints.png" alt="daily" >
+### Calendar Chart
 <img src="images/Number%20of%20Complaints%20Yearly.png" alt="daily" >
 
-#### complaint types.
+#### Complaint Types.
 
 The most complaint types like around internet, network issues, or across any other domains.
 
@@ -39,21 +39,21 @@ The most complaint types like around internet, network issues, or across any oth
 
 <img src="/images/Number_of_issue_per_Case.png" alt="daily" >
 
-### Topic Model 
+## Topic Model 
+#### Topic modeling to find the most frequently discussed issues in the customer complaints.
+
 
 <img src="/images/topisc2.png" alt="daily" >
 
-### Tickets 
+### Total Number of Tickets per states 
 
 <img src="/images/Tickets.png" alt="daily" >
 
-
-### Tickets 
+### Open and Closed Tickets per States 
 
 <img src="/images/Open.closed.png" alt="daily" >
 
-
-### Tickets 
+### Open and Closed Tickets 
 
 <img src="/images/open-closed.png" alt="daily" >
 
