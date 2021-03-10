@@ -46,9 +46,6 @@ Which complaint types are maximum i.e., around internet, network issues, or acro
 
 <img src="/images/Tickets.png" alt="daily" >
 
-### Tickets 
-
-<img src="/images/Open.closed.png" alt="daily" >
 
 ### Tickets 
 
@@ -57,7 +54,7 @@ Which complaint types are maximum i.e., around internet, network issues, or acro
 
 ### Tickets 
 
-<img src="/images/open-closed.png" alt="daily" >
+<img src="/images/ open-closed.png" alt="daily" >
 
 #### Author
 
