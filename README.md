@@ -120,7 +120,7 @@ The most complaint types like around internet, network issues, or across any oth
  ***
   
 <!--Summary -->  
-#### Summary <a name="Summary"></a> 
+## Summary <a name="Summary"></a> 
 - There was total of 2224 Tickets from which 77% are closed and there are still 23%  open tickets. 
 
 - The highest ticket was recorded in July 2015,  generally there was a high ticket recorded form April to July. 
