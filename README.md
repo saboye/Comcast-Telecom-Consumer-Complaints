@@ -25,20 +25,21 @@
 1. [About The Project](#About_The_Project)
 2. [Objective](#objective)
 3. [Data Dictionary](#Data_Dictionar_)
-4. [Number of complaints per Month](#Number_of_complaints_Per_Month)
-5. [Number of complaints per Day](#Number_of_Complaints)
-6. [Calendar Chart](#Calendar_Chart)
-7. [Complaint Types.](#Complaint_Types)
-8. [Number of issue Per Case](#Number_of_issue_Per_Case)
-9. [Topic Model](#Topic_Model)
-10. [Total Number of Tickets per states](#Total_Number_of_Tickets_per_states)
-11. [Open and Closed Tickets per States](#Open_and_Closed_Tickets_per_States)
-12. [Summary](#Summary)
-12. [Author](#author)
-13. [Contributing](#contributing)
-14. [Support](#support)
-15. [License](#license)
-16. [Acknowledgements](#Acknowledgements)
+4. [Analysis](#Analysis)
+    1.  [Number of complaints per Month](#Number_of_complaints_Per_Month)
+    2.  [Number of complaints per Day](#Number_of_Complaints)
+    3. [Calendar Chart](#Calendar_Chart)
+    4. [Complaint Types.](#Complaint_Types)
+    5. [Number of issue Per Case](#Number_of_issue_Per_Case)
+    6. [Topic Model](#Topic_Model)
+    7. [Total Number of Tickets per states](#Total_Number_of_Tickets_per_states)
+    8. [Open and Closed Tickets per States](#Open_and_Closed_Tickets_per_States)
+4. [Summary](#Summary)
+5. [Author](#author)
+6. [Contributing](#contributing)
+7. [Support](#support)
+8. [License](#license)
+9. [Acknowledgements](#Acknowledgements)
 
 ***
 
@@ -72,7 +73,11 @@ A trend chart for the number of complaints at monthly  granularity levels.
 ### Number_of_Complaints   <a name="Number_of_Complaints"></a> 
 A trend chart for the number of complaints at  daily granularity levels.
 <img src="/images/Number_of_Complaints.png" alt="daily" >
-
+  
+***
+  
+ ## Analysis] <a name="Analysis"></a>   
+  
 ***
 ### Calendar Chart <a name="Calendar_Chart"></a>
 <img src="images/Number%20of%20Complaints%20Yearly.png" alt="daily" >
